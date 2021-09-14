@@ -36,5 +36,9 @@ def firstDuplicate(a):
     #        return num
     #return -1
 
+"""
+###
+
+"""
     
     
